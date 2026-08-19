@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mncedisi Given Sibasha
 
-**Actuarial Science | Data Analyst | Azure Certified**
+**Actuarial Science Graduate | Data Analyst | Azure Certified**
 
 📍 Johannesburg, South Africa  
 📧 mgiven42@gmail.com  
