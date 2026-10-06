@@ -34,6 +34,7 @@ I'm a BSc Mathematical Sciences (Actuarial Science) graduate with 4+ years of ha
 ## 📜 Certifications
 
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 - Google Data Analytics Certificate
 - Machine Learning in Python (Simplilearn)
 
