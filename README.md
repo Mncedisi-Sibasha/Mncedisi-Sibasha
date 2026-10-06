@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mncedisi Given Sibasha
 
-**Actuarial Science Graduate | Data Analyst | Azure Certified**
+**Actuarial Science Graduate | Microsoft Certified: Power BI Data Analyst Associate | Azure Data fundamentals**
 
 📍 Johannesburg, South Africa  
 📧 mgiven42@gmail.com  
