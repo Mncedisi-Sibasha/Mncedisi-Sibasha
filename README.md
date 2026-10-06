@@ -24,7 +24,7 @@ I'm a BSc Mathematical Sciences (Actuarial Science) graduate with 4+ years of ha
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, R, SQL, C++, SAS |
-| **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Visualization** | Power BI (PL-300 Certified), Tableau, Matplotlib, Seaborn |
 | **Databases** | SQL Server, Azure SQL, Excel |
 | **Cloud** | Microsoft Azure (DP-900 Certified) |
 | **Tools** | Git, Jupyter, RStudio, DAX |
